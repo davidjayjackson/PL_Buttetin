@@ -1,0 +1,868 @@
+   JD         g    s   c     kc   log(c) log(kc)  w   Obs.      Obs. Name           day   see  
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |P
+58120.0000    0    0    0    1.00 -.---- -.---- 0.000 MMAV                        |E
+58120.0000    0    0    0    1.00 -.---- -.---- 0.000 ERB  Bob Eramia             |P
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58120.0000    0    0    0    1.00 -.---- -.---- 0.000 DROB                        |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |E
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 MUDG George Mudry           |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58120.0000    0    0    0    1.00 -.---- -.---- 0.000 SMNA Michael Stephanou      |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 SONA Andries Son            |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |E
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 HAYK Kim Hay                |F
+58120.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58120.0000    0    0    0    1.00 -.---- -.---- 0.000 DIVA                        |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 CVJ  Jose Carvajal          |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |P
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |E
+58121.0000    0    0    0    1.00 -.---- -.---- 0.000 MMAV                        |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 LKR  Kristine Larsen        |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 BATR Roberto Battaiola      |P
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58121.0000    0    0    0    1.00 -.---- -.---- 0.000 BGAF                        |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58121.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |P
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |G
+58122.0000    0    0    0    1.00 -.---- -.---- 0.000 ERB  Bob Eramia             |G
+58122.0000    0    0    0    1.00 -.---- -.---- 0.000 MMAV                        |E
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58122.0000    1    1   11    1.00 1.0414 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 JGE  Gerardo Jimenez Lope   |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |E
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |F
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |G
+58122.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58123.0000    1    2   12    1.00 1.0792 1.0000 1.000 CVJ  Jose Carvajal          |F
+58123.0000    1    4   14    1.00 1.1461 1.0000 1.000 FERJ Javier Ruiz Fernande   |F
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58123.0000    1    4   14    1.00 1.1461 1.0000 1.000 LRRA Robert Little          |E
+58123.0000    1    7   17    1.00 1.2304 1.0000 1.000 WILW William M. Wilson      |P
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |P
+58123.0000    1    6   16    1.00 1.2041 1.0000 1.000 FLET Tom Fleming            |G
+58123.0000    1    2   12    1.00 1.0792 1.0000 0.000 MMAV                        |E
+58123.0000    1    3   13   13.00 1.1139 1.1139 1.000 KAPJ John Kaplan            |F
+58123.0000    1    3   13    1.00 1.1139 1.0000 1.000 ASA  Salvador Aguirre       |G
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58123.0000    1    3   13    1.00 1.1139 1.0000 1.000 ARAG Gema Araujo            |G
+58123.0000    1    4   14    1.00 1.1461 1.0000 1.000 CKB  Brian Cudnik           |G
+58123.0000    1    7   17    1.00 1.2304 1.0000 1.000 CHAG German Morales Chave   |F
+58123.0000    1    2   12    1.00 1.0792 1.0000 1.000 BROB Robert Brown           |F
+58123.0000    1    3   13   13.00 1.1139 1.1139 1.000 MJHA John McCammon          |E
+58123.0000    1    4   14    1.00 1.1461 1.0000 1.000 TESD David Teske            |G
+58123.0000    1    1   11    1.00 1.0414 1.0000 1.000 LEVM Monty Leventhal        |G
+58123.0000    2    7   27    1.00 1.4314 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58123.0000    1    2   12    1.00 1.0792 1.0000 1.000 KNJS James & Shirley Knig   |G
+58123.0000    1    2   12   12.00 1.0792 1.0792 1.000 JGE  Gerardo Jimenez Lope   |P
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |F
+58123.0000    1    4   14    1.00 1.1461 1.0000 1.000 FUJK K. Fujimori            |F
+58123.0000    1    2   12    1.00 1.0792 1.0000 1.000 BATR Roberto Battaiola      |F
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 MUDG George Mudry           |G
+58123.0000    1    9   19    1.00 1.2788 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58123.0000    1    6   16    1.00 1.2041 1.0000 1.000 AAX  Alexandre Amorim       |E
+58123.0000    1    4   14    1.00 1.1461 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58123.0000    1    4   14    1.00 1.1461 1.0000 1.000 MCE  Etsuiku Mochizuki      |G
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 FLF  Fredirico Luiz Funar   |G
+58123.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |P
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 LRRA Robert Little          |F
+58124.0000    1    2   12    1.00 1.0792 1.0000 1.000 WILW William M. Wilson      |F
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 ASA  Salvador Aguirre       |G
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 FLET Tom Fleming            |G
+58124.0000    1    1   11    1.00 1.0414 1.0000 0.000 MMAV                        |E
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |F
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58124.0000    1    2   12    1.00 1.0792 1.0000 1.000 ARAG Gema Araujo            |G
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |P
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 CKB  Brian Cudnik           |E
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 CHAG German Morales Chave   |G
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 BROB Robert Brown           |F
+58124.0000    1    1   11   11.00 1.0414 1.0414 1.000 MJHA John McCammon          |G
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 TESD David Teske            |E
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |G
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58124.0000    2    3   23    1.00 1.3617 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58124.0000    1    2   12    1.00 1.0792 1.0000 1.000 KNJS James & Shirley Knig   |F
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |F
+58124.0000    1    2   12    1.00 1.0792 1.0000 1.000 MUDG George Mudry           |F
+58124.0000    1    2   12    1.00 1.0792 1.0000 1.000 MJAF Juan Antonio Moreno    |E
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 DJOB Jorge del Rosario      |E
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |F
+58124.0000    1    1   11    1.00 1.0414 1.0000 1.000 AAX  Alexandre Amorim       |E
+58124.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 LRRA Robert Little          |E
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 ASA  Salvador Aguirre       |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 FLET Tom Fleming            |G
+58125.0000    1    1   11    1.00 1.0414 1.0000 0.000 MMAV                        |E
+58125.0000    1    2   12    1.00 1.0792 1.0000 1.000 BERJ Jose Alberto Berdejo   |P
+58125.0000    1    1   11   11.00 1.0414 1.0414 1.000 KAPJ John Kaplan            |G
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 ARAG Gema Araujo            |G
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |P
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |F
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 TESD David Teske            |E
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 LEVM Monty Leventhal        |F
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 KNJS James & Shirley Knig   |G
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |F
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |P
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 MUDG George Mudry           |F
+58125.0000    1    3   13    1.00 1.1139 1.0000 0.000 SMNA Michael Stephanou      |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58125.0000    1    1   11    1.00 1.0414 1.0000 0.000 SNE  Neil Simmons           |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 FTAA Tadeusz Figiel         |P
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 URBP Piotr Urbanski         |G
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 HMQ  Mark Harris            |E
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |F
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 AAX  Alexandre Amorim       |F
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58125.0000    1    2   12    1.00 1.0792 1.0000 1.000 SUZM Miyoshi Suzuki         |E
+58125.0000    1    1   11    1.00 1.0414 1.0000 1.000 MCE  Etsuiku Mochizuki      |G
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 HAYK Kim Hay                |F
+58125.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |G
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |E
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58126.0000    1    1   11    1.00 1.0414 1.0000 1.000 ASA  Salvador Aguirre       |G
+58126.0000    0    0    0    1.00 -.---- -.---- 0.000 MMAV                        |E
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |F
+58126.0000    1    1   11    1.00 1.0414 1.0000 1.000 ARAG Gema Araujo            |F
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |P
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |P
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58126.0000    2    2   22    1.00 1.3424 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |P
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |G
+58126.0000    1    1   11    1.00 1.0414 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 HMQ  Mark Harris            |F
+58126.0000    1    1   11    1.00 1.0414 1.0000 1.000 VARG A. Gonzalo Vargas      |F
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |G
+58126.0000    1    2   12    1.00 1.0792 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 BARH Howard Barnes          |G
+58126.0000    1    1   11    1.00 1.0414 1.0000 1.000 MCE  Etsuiku Mochizuki      |G
+58126.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58126.0000    0    0    0    1.00 -.---- -.---- 0.000 DIVA                        |P
+58127.0000    1    2   12    1.00 1.0792 1.0000 1.000 CVJ  Jose Carvajal          |E
+58127.0000    1    1   11    1.00 1.0414 1.0000 1.000 ASA  Salvador Aguirre       |G
+58127.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |F
+58127.0000    1    4   14    1.00 1.1461 1.0000 1.000 FLET Tom Fleming            |G
+58127.0000    2    4   24    1.00 1.3802 1.0000 1.000 ARAG Gema Araujo            |F
+58127.0000    1    2   12    1.00 1.0792 1.0000 1.000 ONJ  John O'Neill           |F
+58127.0000    1    2   12    1.00 1.0792 1.0000 1.000 BMF  Michael Boschat        |G
+58127.0000    1    4   14    1.00 1.1461 1.0000 1.000 CKB  Brian Cudnik           |F
+58127.0000    3    6   36    1.00 1.5563 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58127.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58127.0000    1    1   11    1.00 1.0414 1.0000 1.000 MJAF Juan Antonio Moreno    |F
+58127.0000    1    3   13    1.00 1.1139 1.0000 1.000 URBP Piotr Urbanski         |G
+58127.0000    1    2   12    1.00 1.0792 1.0000 1.000 BARH Howard Barnes          |F
+58127.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58128.0000    2    3   23    1.00 1.3617 1.0000 1.000 ASA  Salvador Aguirre       |G
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |G
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |F
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |P
+58128.0000    1    5   15    1.00 1.1761 1.0000 1.000 FLET Tom Fleming            |G
+58128.0000    1    1   11   11.00 1.0414 1.0414 1.000 MJHA John McCammon          |E
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |P
+58128.0000    2    6   26    1.00 1.4150 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58128.0000    1    1   11    1.00 1.0414 1.0000 1.000 KNJS James & Shirley Knig   |G
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |P
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58128.0000    2    6   26    1.00 1.4150 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58128.0000    1    4   14    1.00 1.1461 1.0000 1.000 DJOB Jorge del Rosario      |F
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58128.0000    1    4   14    1.00 1.1461 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 BARH Howard Barnes          |G
+58128.0000    1    3   13    1.00 1.1139 1.0000 1.000 MCE  Etsuiku Mochizuki      |F
+58128.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58129.0000    1    1   11    1.00 1.0414 1.0000 1.000 BERJ Jose Alberto Berdejo   |P
+58129.0000    1    1   11    1.00 1.0414 1.0000 1.000 ASA  Salvador Aguirre       |G
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |F
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |F
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |F
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |F
+58129.0000    2    3   23    1.00 1.3617 1.0000 1.000 ARAG Gema Araujo            |F
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58129.0000    1    2   12    1.00 1.0792 1.0000 1.000 CHAG German Morales Chave   |F
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |F
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58129.0000    3    5   35    1.00 1.5441 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58129.0000    1    1   11    1.00 1.0414 1.0000 1.000 KNJS James & Shirley Knig   |F
+58129.0000    1    1   11    1.00 1.0414 1.0000 1.000 STAB Brian Gordon-States    |G
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58129.0000    1    1   11    1.00 1.0414 1.0000 1.000 AJV  J. Alonso              |G
+58129.0000    2    4   24    1.00 1.3802 1.0000 1.000 MJAF Juan Antonio Moreno    |E
+58129.0000    1    1   11    1.00 1.0414 1.0000 1.000 DJOB Jorge del Rosario      |P
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58129.0000    2    8   28    1.00 1.4472 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58129.0000    2    3   23    1.00 1.3617 1.0000 1.000 MCE  Etsuiku Mochizuki      |E
+58129.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |G
+58130.0000    1    1   11    1.00 1.0414 1.0000 1.000 BERJ Jose Alberto Berdejo   |F
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |P
+58130.0000    1    2   12    1.00 1.0792 1.0000 1.000 FLET Tom Fleming            |G
+58130.0000    1    2   12    1.00 1.0792 1.0000 1.000 ASA  Salvador Aguirre       |G
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |E
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58130.0000    1    2   12    1.00 1.0792 1.0000 1.000 ARAG Gema Araujo            |F
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |F
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58130.0000    2    4   24    1.00 1.3802 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |G
+58130.0000    1    2   12    1.00 1.0792 1.0000 1.000 MJAF Juan Antonio Moreno    |E
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |P
+58130.0000    1    2   12    1.00 1.0792 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |G
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 FLF  Fredirico Luiz Funar   |F
+58130.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAF Raffaello Braga        |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |E
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |P
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 RLM  Mat Raymonde           |E
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |G
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |E
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |P
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58131.0000    0    0    0    1.00 -.---- -.---- 0.000 BGAF                        |E
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |G
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |F
+58131.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAF Raffaello Braga        |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 RLM  Mat Raymonde           |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 BATR Roberto Battaiola      |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 MUDG George Mudry           |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |P
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58132.0000    0    0    0    1.00 -.---- -.---- 0.000 SNE  Neil Simmons           |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 FTAA Tadeusz Figiel         |F
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 HAYK Kim Hay                |E
+58132.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |G
+58133.0000    0    0    0    1.00 -.---- -.---- 0.000 DROB                        |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58133.0000    1    3   13    1.00 1.1139 1.0000 1.000 BRAF Raffaello Braga        |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |E
+58133.0000    0    0    0    1.00 -.---- -.---- 0.000 ERB  Bob Eramia             |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58133.0000    1    5   15    1.00 1.1761 1.0000 1.000 ARAG Gema Araujo            |F
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |F
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |F
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58133.0000    1    4   14    1.00 1.1461 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58133.0000    1    4   14    1.00 1.1461 1.0000 1.000 AJV  J. Alonso              |F
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 SONA Andries Son            |G
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |E
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |E
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 HAYK Kim Hay                |E
+58133.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |G
+58133.0000    1    3   13    1.00 1.1139 1.0000 0.000 DIVA                        |G
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |G
+58134.0000    0    0    0    1.00 -.---- -.---- 0.000 DROB                        |G
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58134.0000    1    4   14    1.00 1.1461 1.0000 1.000 ARAG Gema Araujo            |F
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58134.0000    1    6   16    1.00 1.2041 1.0000 1.000 CKB  Brian Cudnik           |E
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |F
+58134.0000    1    4   14    1.00 1.1461 1.0000 1.000 TESD David Teske            |E
+58134.0000    1    3   13    1.00 1.1139 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58134.0000    1    2   12    1.00 1.0792 1.0000 1.000 KNJS James & Shirley Knig   |F
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58134.0000    1    4   14    1.00 1.1461 1.0000 1.000 AJV  J. Alonso              |F
+58134.0000    1    4   14    1.00 1.1461 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |E
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |E
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |G
+58134.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |G
+58135.0000    1    5   15    1.00 1.1761 1.0000 1.000 BERJ Jose Alberto Berdejo   |P
+58135.0000    1    8   18    1.00 1.2553 1.0000 1.000 FERJ Javier Ruiz Fernande   |P
+58135.0000    1    6   16    1.00 1.2041 1.0000 1.000 LRRA Robert Little          |E
+58135.0000    1    4   14    1.00 1.1461 1.0000 1.000 ASA  Salvador Aguirre       |G
+58135.0000    1    6   16   16.00 1.2041 1.2041 1.000 HOWR Rodney Howe            |E
+58135.0000    1    2   12    1.00 1.0792 1.0000 0.000 ERB  Bob Eramia             |G
+58135.0000    1    4   14   14.00 1.1461 1.1461 1.000 KAPJ John Kaplan            |G
+58135.0000    1    6   16   16.00 1.2041 1.2041 1.000 BRAD David Branchett        |G
+58135.0000    1   10   20    1.00 1.3010 1.0000 1.000 ARAG Gema Araujo            |F
+58135.0000    1    1   11    1.00 1.0414 1.0000 1.000 BMF  Michael Boschat        |P
+58135.0000    1    6   16    1.00 1.2041 1.0000 1.000 CHAG German Morales Chave   |F
+58135.0000    1    3   13    1.00 1.1139 1.0000 1.000 BROB Robert Brown           |F
+58135.0000    1    3   13   13.00 1.1139 1.1139 1.000 MJHA John McCammon          |E
+58135.0000    1    3   13    1.00 1.1139 1.0000 1.000 LEVM Monty Leventhal        |G
+58135.0000    1    3   13   13.00 1.1139 1.1139 1.000 KROL Larry Krozel           |F
+58135.0000    1    9   19    1.00 1.2788 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58135.0000    1    7   17    1.00 1.2304 1.0000 1.000 KNJS James & Shirley Knig   |G
+58135.0000    1    3   13    1.00 1.1139 1.0000 1.000 STAB Brian Gordon-States    |G
+58135.0000    1    3   13    1.00 1.1139 1.0000 1.000 FUJK K. Fujimori            |F
+58135.0000    1    2   12    1.00 1.0792 1.0000 1.000 MUDG George Mudry           |F
+58135.0000    1    6   16    1.00 1.2041 1.0000 1.000 AJV  J. Alonso              |G
+58135.0000    1    9   19    1.00 1.2788 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58135.0000    1    3   13    1.00 1.1139 1.0000 1.000 CIOA Ioannis Chouinavas     |F
+58135.0000    1    3   13    1.00 1.1139 1.0000 1.000 VARG A. Gonzalo Vargas      |G
+58135.0000    1    6   16    1.00 1.2041 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58135.0000    1    5   15    1.00 1.1761 1.0000 1.000 MCE  Etsuiku Mochizuki      |G
+58135.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58136.0000    1    9   19    1.00 1.2788 1.0000 1.000 BERJ Jose Alberto Berdejo   |F
+58136.0000    1    3   13    1.00 1.1139 1.0000 1.000 LRRA Robert Little          |G
+58136.0000    1    4   14   14.00 1.1461 1.1461 1.000 HOWR Rodney Howe            |G
+58136.0000    1    3   13    1.00 1.1139 1.0000 1.000 ASA  Salvador Aguirre       |G
+58136.0000    1    5   15   15.00 1.1761 1.1761 1.000 KAPJ John Kaplan            |G
+58136.0000    1    2   12   12.00 1.0792 1.0792 1.000 BRAD David Branchett        |G
+58136.0000    1   10   20    1.00 1.3010 1.0000 1.000 ARAG Gema Araujo            |F
+58136.0000    1    4   14    1.00 1.1461 1.0000 1.000 CKB  Brian Cudnik           |F
+58136.0000    1    8   18    1.00 1.2553 1.0000 1.000 CHAG German Morales Chave   |F
+58136.0000    1    2   12    1.00 1.0792 1.0000 1.000 BROB Robert Brown           |G
+58136.0000    1    3   13   13.00 1.1139 1.1139 1.000 MJHA John McCammon          |E
+58136.0000    1    3   13    1.00 1.1139 1.0000 1.000 TESD David Teske            |F
+58136.0000    1    2   12    1.00 1.0792 1.0000 1.000 LEVM Monty Leventhal        |G
+58136.0000    1   10   20    1.00 1.3010 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58136.0000    1    6   16    1.00 1.2041 1.0000 1.000 KNJS James & Shirley Knig   |F
+58136.0000    1    4   14    1.00 1.1461 1.0000 1.000 STAB Brian Gordon-States    |G
+58136.0000    1    8   18    1.00 1.2553 1.0000 1.000 AJV  J. Alonso              |G
+58136.0000    1   12   22    1.00 1.3424 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58136.0000    1    3   13    1.00 1.1139 1.0000 1.000 URBP Piotr Urbanski         |G
+58136.0000    1    2   12    1.00 1.0792 1.0000 1.000 CIOA Ioannis Chouinavas     |P
+58136.0000    1    5   15    1.00 1.1761 1.0000 1.000 VARG A. Gonzalo Vargas      |G
+58136.0000    1    2   12    1.00 1.0792 1.0000 1.000 AAX  Alexandre Amorim       |G
+58136.0000    1    5   15    1.00 1.1761 1.0000 1.000 MWU  Walter Maluf           |G
+58136.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58137.0000    1    4   14    1.00 1.1461 1.0000 1.000 FERJ Javier Ruiz Fernande   |P
+58137.0000    1    2   12    1.00 1.0792 1.0000 1.000 LRRA Robert Little          |G
+58137.0000    1    2   12    1.00 1.0792 1.0000 1.000 ASA  Salvador Aguirre       |G
+58137.0000    1    2   12    1.00 1.0792 1.0000 1.000 WILW William M. Wilson      |F
+58137.0000    1    2   12   12.00 1.0792 1.0792 1.000 KAPJ John Kaplan            |G
+58137.0000    1    5   15    1.00 1.1761 1.0000 1.000 BERJ Jose Alberto Berdejo   |F
+58137.0000    1    2   12   12.00 1.0792 1.0792 1.000 BRAD David Branchett        |G
+58137.0000    1    2   12    1.00 1.0792 1.0000 1.000 BRAF Raffaello Braga        |F
+58137.0000    1    5   15    1.00 1.1761 1.0000 1.000 ARAG Gema Araujo            |G
+58137.0000    0    0    0    1.00 -.---- -.---- 1.000 LKR  Kristine Larsen        |F
+58137.0000    1    1   11    1.00 1.0414 1.0000 1.000 BMF  Michael Boschat        |F
+58137.0000    1    4   14    1.00 1.1461 1.0000 1.000 CHAG German Morales Chave   |F
+58137.0000    1    2   12   12.00 1.0792 1.0792 1.000 MJHA John McCammon          |G
+58137.0000    1    4   14    1.00 1.1461 1.0000 1.000 TESD David Teske            |G
+58137.0000    1    1   11    1.00 1.0414 1.0000 1.000 LEVM Monty Leventhal        |G
+58137.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58137.0000    2    7   27    1.00 1.4314 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58137.0000    1    3   13    1.00 1.1139 1.0000 1.000 KNJS James & Shirley Knig   |F
+58137.0000    1    5   15   15.00 1.1761 1.1761 1.000 JGE  Gerardo Jimenez Lope   |G
+58137.0000    1    2   12    1.00 1.0792 1.0000 1.000 STAB Brian Gordon-States    |G
+58137.0000    1    2   12    1.00 1.0792 1.0000 1.000 FUJK K. Fujimori            |F
+58137.0000    1    2   12    1.00 1.0792 1.0000 1.000 MUDG George Mudry           |F
+58137.0000    1    4   14    1.00 1.1461 1.0000 1.000 AJV  J. Alonso              |G
+58137.0000    1    6   16    1.00 1.2041 1.0000 1.000 MJAF Juan Antonio Moreno    |E
+58137.0000    1    1   11    1.00 1.0414 1.0000 1.000 CIOA Ioannis Chouinavas     |P
+58137.0000    1    4   14    1.00 1.1461 1.0000 1.000 VARG A. Gonzalo Vargas      |F
+58137.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |F
+58137.0000    1    4   14    1.00 1.1461 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58137.0000    1    4   14    1.00 1.1461 1.0000 1.000 MCE  Etsuiku Mochizuki      |G
+58137.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58138.0000    0    0    0    1.00 -.---- -.---- 0.000 JPG                         |F
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 CVJ  Jose Carvajal          |F
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |E
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |F
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58138.0000    1    2   12    1.00 1.0792 1.0000 1.000 ARAG Gema Araujo            |F
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |F
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |P
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58138.0000    1    1   11    1.00 1.0414 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58138.0000    1    1   11    1.00 1.0414 1.0000 1.000 KNJS James & Shirley Knig   |F
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58138.0000    1    3   13    1.00 1.1139 1.0000 1.000 MJAF Juan Antonio Moreno    |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 SONA Andries Son            |G
+58138.0000    1    3   13    1.00 1.1139 1.0000 1.000 VARG A. Gonzalo Vargas      |F
+58138.0000    1    4   14    1.00 1.1461 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58138.0000    1    3   13    1.00 1.1139 1.0000 1.000 MCE  Etsuiku Mochizuki      |G
+58138.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |G
+58138.0000    1    1   11    1.00 1.0414 1.0000 0.000 DIVA                        |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAF Raffaello Braga        |F
+58139.0000    0    0    0    1.00 -.---- -.---- 0.000 DROB                        |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |E
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 JGE  Gerardo Jimenez Lope   |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 HMQ  Mark Harris            |E
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58139.0000    1    2   12    1.00 1.0792 1.0000 1.000 SUZM Miyoshi Suzuki         |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |G
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 HAYK Kim Hay                |F
+58139.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAF Raffaello Braga        |P
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 FERJ Javier Ruiz Fernande   |F
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 CVJ  Jose Carvajal          |P
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |P
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58140.0000    0    0    0    1.00 -.---- -.---- 0.000 ERB  Bob Eramia             |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |P
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |F
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 JGE  Gerardo Jimenez Lope   |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |F
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |P
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 HMQ  Mark Harris            |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |G
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |F
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 FLF  Fredirico Luiz Funar   |P
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 HAYK Kim Hay                |P
+58140.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 CVJ  Jose Carvajal          |P
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |P
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |G
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |E
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |F
+58141.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58141.0000    0    0    0    1.00 -.---- -.---- 0.000 DIVA                        |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 FERJ Javier Ruiz Fernande   |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |E
+58142.0000    1    1   11    1.00 1.0414 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 JGE  Gerardo Jimenez Lope   |P
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 BATR Roberto Battaiola      |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 FTAA Tadeusz Figiel         |P
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |E
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 BARH Howard Barnes          |G
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |F
+58142.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 CVJ  Jose Carvajal          |E
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |E
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 RLM  Mat Raymonde           |E
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58143.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |P
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58144.0000    0    0    0    1.00 -.---- -.---- 0.000 DROB                        |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |E
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 DJOB Jorge del Rosario      |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |F
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58144.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |P
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 FERJ Javier Ruiz Fernande   |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |E
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 OATS Susan Oatney           |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 LKR  Kristine Larsen        |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 ONJ  John O'Neill           |P
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |P
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 MUDG George Mudry           |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 BARH Howard Barnes          |G
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |F
+58145.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |E
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAF Raffaello Braga        |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |P
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 OATS Susan Oatney           |E
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 RLM  Mat Raymonde           |E
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |F
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58146.0000    0    0    0    1.00 -.---- -.---- 0.000 SNE  Neil Simmons           |E
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 FTAA Tadeusz Figiel         |P
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |F
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 BARH Howard Barnes          |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |G
+58146.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAF Raffaello Braga        |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |P
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |E
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |E
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 SIMC Clyde Simpson          |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 MUDG George Mudry           |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |G
+58147.0000    0    0    0    1.00 -.---- -.---- 0.000 SMNA Michael Stephanou      |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 DEMF Frank Dempsey          |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 VARG A. Gonzalo Vargas      |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |G
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 FLF  Fredirico Luiz Funar   |F
+58147.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 CVJ  Jose Carvajal          |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |P
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 HOWR Rodney Howe            |E
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 FERJ Javier Ruiz Fernande   |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 ARAG Gema Araujo            |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |E
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |E
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 SDOH Solar Dynamics Obs -   |E
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 MJAF Juan Antonio Moreno    |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |F
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58148.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |F
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |F
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 WILW William M. Wilson      |G
+58149.0000    1    5   15    1.00 1.1761 1.0000 1.000 ASA  Salvador Aguirre       |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 LRRA Robert Little          |E
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |G
+58149.0000    1    3   13    1.00 1.1139 1.0000 1.000 ARAG Gema Araujo            |F
+58149.0000    1    6   16    1.00 1.2041 1.0000 1.000 FERJ Javier Ruiz Fernande   |P
+58149.0000    0    0    0    1.00 -.---- -.---- 0.000 JPG                         |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58149.0000    1    1   11    1.00 1.0414 1.0000 1.000 BROB Robert Brown           |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 RLM  Mat Raymonde           |E
+58149.0000    1    4   14    1.00 1.1461 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |F
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |G
+58149.0000    1    4   14    1.00 1.1461 1.0000 1.000 FLET Tom Fleming            |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 MILJ Jay Miller             |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 MUDG George Mudry           |F
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 AJV  J. Alonso              |P
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58149.0000    1    6   16    1.00 1.2041 1.0000 1.000 MJAF Juan Antonio Moreno    |E
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 URBP Piotr Urbanski         |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |F
+58149.0000    1    4   14    1.00 1.1461 1.0000 1.000 VARG A. Gonzalo Vargas      |E
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |F
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 SUZM Miyoshi Suzuki         |G
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58149.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |G
+58149.0000    1    4   14    1.00 1.1461 1.0000 0.000 DIVA                        |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 BERJ Jose Alberto Berdejo   |P
+58150.0000    1    7   17    1.00 1.2304 1.0000 1.000 ARAG Gema Araujo            |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 FERJ Javier Ruiz Fernande   |P
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 LKR  Kristine Larsen        |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 BMF  Michael Boschat        |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 ASA  Salvador Aguirre       |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 CKB  Brian Cudnik           |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 CHAG German Morales Chave   |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 BROB Robert Brown           |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 MJHA John McCammon          |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 TESD David Teske            |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 CNT  Dean Chantiles         |E
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 JDAC David Jackson          |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 BRAD David Branchett        |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 LEVM Monty Leventhal        |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 RLM  Mat Raymonde           |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 KAPJ John Kaplan            |G
+58150.0000    0    0    0    1.00 -.---- -.---- 0.000 DROB                        |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 KROL Larry Krozel           |F
+58150.0000    1    2   12    1.00 1.0792 1.0000 1.000 SDOH Solar Dynamics Obs -   |E
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 KNJS James & Shirley Knig   |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 STAB Brian Gordon-States    |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 FLET Tom Fleming            |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 FUJK K. Fujimori            |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 VIDD Dan Vidican            |P
+58150.0000    1    3   13    1.00 1.1139 1.0000 1.000 MJAF Juan Antonio Moreno    |E
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 CIOA Ioannis Chouinavas     |P
+58150.0000    1    2   12    1.00 1.0792 1.0000 1.000 VARG A. Gonzalo Vargas      |F
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 AAX  Alexandre Amorim       |G
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 MWU  Walter Maluf           |G
+58150.0000    1    6   16    1.00 1.2041 1.0000 1.000 SUZM Miyoshi Suzuki         |E
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 MCE  Etsuiku Mochizuki      |E
+58150.0000    0    0    0    1.00 -.---- -.---- 1.000 BSAB Santanu Basu           |E
